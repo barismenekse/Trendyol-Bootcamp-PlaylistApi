@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.trendyol</groupId>
-    <artifactId>toy-robot</artifactId>
+    <artifactId>playlist-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>toy-robot</name>
+    <name>playlist-api</name>
     <description>Description</description>
 
     <properties>
